@@ -1,0 +1,12 @@
+.contenu{
+    background-color: black;
+    height: 45em;   
+    /* HAUTEUR */
+    width: 45rem;
+    /* LARGEUR */
+    margin: auto;
+    border-radius: 15px;
+    background: linear-gradient(to left, #40a497, #6840a4);
+    /* dégrade qui démarre avec la 1er couleur a droite et la dérniere a gauche (violet, vert) */
+    /* lien vers un générateur de dégradé : cssgradient.io dans le slack */
+}

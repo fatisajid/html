@@ -1,0 +1,34 @@
+
+
+table{
+   
+   border-collapse: collapse;
+   margin: auto;
+}
+
+
+td {
+   width: 20px;
+   height: 20px;
+}
+
+.blanc {
+   background-color: white;
+}
+
+.jaune {
+   background-color: yellow;
+}
+
+.gris{
+   background-color: gray;
+}
+
+.noir{
+   background-color: black;
+}
+
+.bleu {
+   background-color: blue;
+}
+
