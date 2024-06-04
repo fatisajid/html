@@ -1,0 +1,23 @@
+body{
+    margin: auto;
+    background-color: brown;
+}
+
+.boite {
+    height: 11vh;
+    width: 18vh;
+    background-color: aqua;
+    padding: 15px;
+    margin: 30px;
+    border: 5px double ;
+    background: center url(../img/siamois.jpg);
+    float: left;
+    
+}
+
+.boite:hover {
+    filter: grayscale(100%);
+    height: 20vh;
+    width: 30vh;
+
+}
