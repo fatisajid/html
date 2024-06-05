@@ -1,0 +1,40 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+background-image: url(../img/bengal.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+    background-color: palevioletred;
+    color: white;
+    font-size: 50px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+nav{
+    background-color: plum;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    text-decoration: none;
+    background-color: palevioletred;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+a:hover{
+    background-color: pink;
+    color: black;
+}
+
